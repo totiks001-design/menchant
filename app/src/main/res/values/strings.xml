@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menchant</string>
+    <string name="accessibility_description">Позволяет демо-режиму Menchant читать содержимое экрана и выполнять нажатия, свайпы и ввод текста по команде ИИ. Включайте только если понимаете, что делаете.</string>
+</resources>
